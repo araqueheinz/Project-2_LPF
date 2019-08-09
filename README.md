@@ -19,3 +19,6 @@ We were given a list of students. Our objective is to dynamically organize and d
   
 ## Exceeds Expectations:
 To exceed the expectations we had to implement ”search functionality”. We had to add, using JavaScript, a div container, a search input, and a button to submit. Using event listeners we had to filter through the list by name. 
+
+## Check it out
+[List Pagination and Filtering](https://araqueheinz.github.io/Project-2_LPF/)
